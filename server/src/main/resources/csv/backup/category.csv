@@ -1,0 +1,41 @@
+1,Demographic changes,main
+2,Energy,main
+3,Environment,main
+4,Health,main
+5,Poverty and Economic Development,main
+6,"Living conditions, Community and well being ",main
+7,Education and Knowledge,main
+8,Human rights and Democracy,main
+9,War,main
+10,Population,sub
+11,Urban vs Rural,sub
+12,Renewables,sub
+13,Nonrenewable ,sub
+14,Deaths from environment,sub
+15,Air pollution deaths,sub
+16,Other environment deaths,sub
+17,Mismanaged waste,sub
+18,Causes of Death,sub
+19,Causes of death by age,sub
+20,Mental disorders,sub
+21,Substance dependence,sub
+22,Government expenditure,sub
+23,Extreme poverty,sub
+24,Happiness,sub
+25,Marriage,sub
+26,Trust,sub
+27,Completed education,sub
+28,Duration of education,sub
+29,Education scores,sub
+30,Enrollment ratio in education,sub
+31,Government education expenditure,sub
+32,Students abroad,sub
+33,Children,sub
+34,School,sub
+35,Corruption,sub
+36,Democracy,sub
+37,Economic inequality by gender,sub
+38,Human rights,sub
+39,Military,sub
+40,Terrorism,sub
+41,Homicide,sub
