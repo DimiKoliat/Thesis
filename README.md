@@ -1,5 +1,3 @@
-# Thesis Project
-
 ## Thesis Information
 - **Thesis Name:** Visualization and analysis of index data.
 
