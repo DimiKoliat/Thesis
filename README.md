@@ -8,7 +8,7 @@
 - **Completion Month/Year:** July 2022
 
 ## Summary
-This thesis project focuses on the visualization and analysis of index data. It includes visualization techniques such as line charts, bar charts, tables, and maps. Additionally, it incorporates a clustering algorithm (k-means) for data analysis.
+The current diploma thesis addresses the visualization and analysis of indicator data. Data visualization employs various visualization techniques, including different types of charts such as line charts or bar charts, as well as other techniques like tables or maps. One of the techniques used for data analysis is clustering, accomplished through a machine learning algorithm known as k-means. The means of user interaction is a website. Indicator data were sourced from CSV files, modified, and stored in a database. With the assistance of a server, these data are then presented on the website in an appropriate format.
 
 ## Usage
 Interaction with the data is facilitated through a website. Data is sourced from CSV files, modified, and stored in a database. The website provides visualization and clustering of data, allowing researchers and business professionals to draw conclusions for the selected indices.
