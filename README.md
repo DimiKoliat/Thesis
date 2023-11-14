@@ -1,5 +1,5 @@
 ## Thesis Information
-- **Thesis Name:** Visualization and analysis of index data.
+- **Thesis Name:** Data analysis and Visualization.
 
 ## Student Information
 - **Name:** Dimitrios Koliatos
