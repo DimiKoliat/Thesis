@@ -7,11 +7,6 @@
 - **University:** University of Ioannina
 - **Completion Month/Year:** July 2022
 
-## Supervisor
-- **Professor:** Konstantinos Blekas
-- **Department:** Department of Computer Engineering and Informatics
-- **School:** Polytechnic School, University of Ioannina
-
 ## Summary
 This thesis project focuses on the visualization and analysis of index data. It includes visualization techniques such as line charts, bar charts, tables, and maps. Additionally, it incorporates a clustering algorithm (k-means) for data analysis.
 
