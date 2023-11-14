@@ -21,7 +21,7 @@ For the storage and retrieval of data, MySQL was employed as the relational data
 ### Frontend Framework - React
 React, a powerful JavaScript library for building user interfaces, was utilized for the frontend development of the thesis project. Its component-based architecture and virtual DOM mechanism provided a responsive and dynamic user experience.
 
-### Backend Framework - Spring Boot
+### Framework - Spring Boot
 Spring Boot, a framework for building Java-based enterprise applications, served as the backend foundation. Its simplicity and convention-over-configuration approach facilitated rapid development, enabling seamless integration with the frontend, efficient data processing, and the incorporation of machine learning models.
 
 ### Machine Learning - scikit-learn (sklearn)
